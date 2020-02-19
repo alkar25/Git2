@@ -6,6 +6,8 @@ public class git2 {
 sysout("hello world")
 
 new branch
+
+tester edition
 	}
 
 }
